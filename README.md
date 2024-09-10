@@ -13,7 +13,7 @@ Bu klon ile Netflix deneyimini web tarayıcınızda yaşayabilirsiniz! Projenin 
 - **Hoş Görünüm:** Modern ve göz alıcı bir arayüz. 🌟
 - **Çok Dilli Destek:** Türkçe dil seçeneği mevcut. 🇹🇷
 - **Kapsamlı İçerik:** İzlemek için bir sürü film ve dizi içeriği. 🎥
-- 
+  
 ## 💻 Teknolojiler
 
 - **HTML:** Projenin yapısını oluşturmak için kullanıldı.
